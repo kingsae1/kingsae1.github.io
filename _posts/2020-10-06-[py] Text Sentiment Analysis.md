@@ -1,5 +1,7 @@
 ---
 title: Text Sentiment Analysis (텍스트 감정 분석)
+subtitle: 파이썬을 이용한 텍스트 감정분석 알고리즘
+description: 파이썬을 이용한 텍스트 감정분석 알고리즘
 date: 2020-10-06 23:30:09
 layout: post
 category: data analysis
