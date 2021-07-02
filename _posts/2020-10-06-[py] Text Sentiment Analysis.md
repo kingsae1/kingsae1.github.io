@@ -1,14 +1,15 @@
 ---
 title: Text Sentiment Analysis (텍스트 감정 분석)
 date: 2020-10-06 23:30:09
-categories:
-  - data analysis
+layout: post
+category: data analysis
 tags:
   - pandas
   - deep learning
   - machine learning
   - Text Sentiment
-comments: true
+paginate: true
+author: kingsae
 image: https://emrahmete.files.wordpress.com/2018/11/nlp-833x474.png?w=404&h=230
 ---
 
@@ -199,3 +200,5 @@ def using():
     부정적인 리뷰
     ### 정확도 : 88.186
 ```
+
+> 공유 : https://github.com/kingsae1/python-textsentment-analysis
