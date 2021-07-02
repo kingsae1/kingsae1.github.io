@@ -1,0 +1,14 @@
+.idea
+.DS_Store
+.sass-cache/
+.jekyll-cache/
+gemfiles/
+Gemfile.lock
+node_modules/
+vendor/bundle/
+vendor/cache/
+vendor/gems/
+vendor/ruby/
+package-json.lock
+_site
+_drafts
