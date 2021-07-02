@@ -4,8 +4,7 @@ subtitle: Javascript 클로저에 대한 개념 정리
 description: Javascript 클로저에 대한 개념 정리
 date: 2016-05-25 23:30:09
 layout: post
-categories:
-  - javascript
+category: javascript
 tags:
   - javascript
   - closure
