@@ -1,8 +1,7 @@
 # Site Settings
 name: Kinflix
-title: Kinflix | A blog theme for Jekyll
-description: Kinflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+title: Kinflix | Kingsae's Tech blog
+description: Kingsae's Tech blog
 tags:
   - blog
   - template
@@ -24,7 +23,7 @@ email: kingsae1004@gmail.com
 disqus_username: Kingsae
 # Contact Form Setting
 # See: https://formspree.io/
-formspree_form_id: formspree_form_id
+formspree_form_id: xknkzqpw
 
 # Social Media Settings
 # Remove the item if you don't need it
