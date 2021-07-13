@@ -66,7 +66,7 @@ permalink: /about/
 
 - Period : 2017.6 ~ 2017.7
 - Language : VueJs, Rxjs, javascript, oipf, git, gulp
-- Description : 리모컨없이 음성서버를 통해 홈포탈을 제어하는 어플리케이션. 개발 Framework는 viewjs를 이용하였고, 복잡한 구매로직과 VOD Player로직을 Rxjs를 이용하여 콜백 Hell현상 개선
+- Description : 리모컨없이 음성서버를 통해 홈포탈을 제어하는 어플리케이션. 개발 Framework는 vuejs 이용하였고, 복잡한 구매로직과 VOD Player로직을 Rxjs를 이용하여 콜백 Hell현상 개선
 
 ## Property Manager for KT 홈포탈
 
