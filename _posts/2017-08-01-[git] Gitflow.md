@@ -9,7 +9,7 @@ tags:
   - git
   - gitflow
 author: kingsae
-paginate: true
+paginate: false
 image: https://cdn-images-1.medium.com/max/1600/1*cMj8QLeDCUryuZjp93GuYQ.png
 ---
 

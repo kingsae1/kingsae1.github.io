@@ -9,7 +9,7 @@ tags:
   - javascript
   - closure
 author: kingsae
-paginate: true
+paginate: false
 image: https://res.cloudinary.com/practicaldev/image/fetch/s--LGEPLGl5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/tesu953czx4ww9q3z1s3.jpg
 optimized_image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz9rPrd_mUldml_Wbesd55ke2by0ZeacDrCA&usqp=CAU
 ---

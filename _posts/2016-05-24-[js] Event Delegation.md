@@ -14,7 +14,7 @@ tags:
 image: >-
   https://miro.medium.com/max/1120/1*93dh-xp6TodXWp4RIj2rtw.jpeg
 author: kingsae
-paginate: true
+paginate: false
 ---
 
 # Event Delegation

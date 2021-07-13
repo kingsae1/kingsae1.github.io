@@ -10,7 +10,7 @@ tags:
   - deep learning
   - machine learning
   - Text Sentiment
-paginate: true
+paginate: false
 author: kingsae
 image: https://emrahmete.files.wordpress.com/2018/11/nlp-833x474.png?w=404&h=230
 ---

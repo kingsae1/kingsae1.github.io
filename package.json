@@ -8,6 +8,9 @@
     "type": "git",
     "url": "https://github.com/thiagorossener/jekflix-template.git"
   },
+  "scripts": {
+    "serve": "bundle exec jekyll serve"
+  },
   "keywords": [
     "jekyll",
     "template",
