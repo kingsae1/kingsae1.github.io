@@ -31,8 +31,7 @@ permalink: /about/
 - Language : Git, Webpack, Nodejs, Python, Go
 - Description : 차세대 미디어 서비스 개발 (서버 및 Client SDK)
 
-<img src="assets/img/portfolio/kt_voiceportal.png">
-![](assets/img/portfolio/kt_voiceportal.png)
+<img data-action="zoom" src='{{ "/assets/img/portfolio/kt_voiceportal.png" | relative_url }}' alt='absolute'>
 
 ## KT - VuuPlay, MU:Z
 
@@ -40,8 +39,8 @@ permalink: /about/
 - Language : Git, Webpack, Javascript, Oipf
 - Description : KT올레티비 MZ세대를 위한 미디어 서비스
 
-![](portfolio/kt_muz.png)
-![](portfolio/kt_vuuplay.png)
+<img data-action="zoom" src='{{ "/assets/img/portfolio/kt_muz.png" | relative_url }}' alt='absolute'>
+<img data-action="zoom" src='{{ "/assets/img/portfolio/kt_vuuplay.png" | relative_url }}' alt='absolute'>
 
 ## Ahnlab - Coldbrew
 
@@ -55,7 +54,7 @@ permalink: /about/
 - Language : Git, Gulp, Nodejs, Xml Parser, PSD parser, Socket, MongoDB
 - Description : Screen Viewer 로써 개발자와 디자이너간의 GUI 를 좀 더 편하게 관리 및 커뮤니케이션을 할 수 있도록 제공해주는 Application
 
-![](portfolio/alti_screenview.png)
+<img data-action="zoom" src='{{ "/assets/img/portfolio/alti_screenview.png" | relative_url }}' alt='absolute'>
 
 ## KT 홈포탈 (Smart 3.0)
 
@@ -63,7 +62,7 @@ permalink: /about/
 - Language : javascript, jquery, oifp, git, gulp
 - Description : 차세대 홈포탈 어플리케이션으로써, 전면적인 UI개편과 기능 추가 및 애니메이션 추가. 메뉴와 VOD, 구매 개발 담당
 
-![](portfolio/kt_smarthome.png)
+<img data-action="zoom" src='{{ "/assets/img/portfolio/kt_smarthome.png" | relative_url }}' alt='absolute'>
 
 ## KT 홈포탈 (ollehTv)
 
@@ -71,7 +70,7 @@ permalink: /about/
 - Language : javascript, jquery, oifp, git, gulp
 - Description : 국내 IPTV 최대 가입자를 보유하고 있는 KT의 메인 어플리케이션으로써, 이를 홈포탈이라 칭하며 (브렌드명 : 올레TV) 메뉴부터 구매와 Player 개발
 
-![](portfolio/kt_homeportal.png)
+<img data-action="zoom" src='{{ "/assets/img/portfolio/kt_homeportal.png" | relative_url }}' alt='absolute'>
 
 ## Gulp check unused images plugin
 
@@ -98,7 +97,7 @@ permalink: /about/
 - Language : javascript, openGl, oifp, git, ant
 - Description : 캐나다 1위 케이블 사업자인 Rogers에 홈포탈 어플리케이션 제공. 케이블의 환경상 캐나다 토론토에 거주하며 개발.PVR, 상세화면, PlayControl 개발 담당
 
-![](portfolio/rosers_eclipse.png)
+<img data-action="zoom" src='{{ "/assets/img/portfolio/rogers_eclipse.png" | relative_url }}' alt='absolute'>
 
 ## Skylife MovieChoice Application
 
@@ -106,7 +105,7 @@ permalink: /about/
 - Language : javascript, jquery, oifp, git, ant
 - Description : Skylife Appstore에 제공되는 어플리케이션으로써, 추천영화 및 구매정보 제공하는 어플 개발
 
-![](portfolio/skylife_moviechoice.png)
+<img data-action="zoom" src='{{ "/assets/img/portfolio/skylife_moviechoice.png" | relative_url }}' alt='absolute'>
 
 ## GRP (Group ware) Hybrid Application
 
@@ -114,7 +113,7 @@ permalink: /about/
 - Language : javascript, angularJs, swift, android, git, gulp
 - Description : 사내 주소록 어플리케이션 개발. 비용절감을 위해 하이브리드 형태로 어플리케이션을 개발
 
-![](portfolio/alti_ott.png)
+<img data-action="zoom" src='{{ "/assets/img/portfolio/alti_ott.png" | relative_url }}' alt='absolute'>
 
 ## Skylife Appstore
 
@@ -122,7 +121,7 @@ permalink: /about/
 - Language : javascript, jquery, oifp, git, ant
 - Description : TTA 표준에 맞춘 앱스토어로써 skylife 단말에 포함되는 resident application
 
-![](portfolio/skylife_appstore.png)
+<img data-action="zoom" src='{{ "/assets/img/portfolio/skylife_appstore.png" | relative_url }}' alt='absolute'>
 
 ## Ns 홈쇼핑 DP Application
 
@@ -130,7 +129,7 @@ permalink: /about/
 - Language : javascript, jquery, oifp, svn, ant
 - Description : 셋탑에서 홈쇼핑채널에서 제공하는 양방향 어플로써, 홈쇼핑을 TV에서 이용, 구매를 제공하 는 어플리케이션
 
-![](portfolio/nshome.png)
+<img data-action="zoom" src='{{ "/assets/img/portfolio/nshome.png" | relative_url }}' alt='absolute'>
 
 ## TTA Appstore
 
@@ -144,7 +143,7 @@ permalink: /about/
 - Language : javascript, jquery, oifp, uPnP, DLNAStack, svn, ant
 - Description : uPnP기술을 이용해 타기기와 통신하여 컨텐츠를 재생 및 컨트롤하여 TV에 컨텐츠를 재생
 
-![](portfolio/kt_dlna.png)
+<img data-action="zoom" src='{{ "/assets/img/portfolio/kt_dlna.png" | relative_url }}' alt='absolute'>
 
 ## KT Usb player application
 
@@ -152,7 +151,7 @@ permalink: /about/
 - Language : javascript, jquery, oifp, uPnP, usbStack, svn, ant
 - Description : Alticast Usb stack을 이용해 USb내에 존재하는 미디어 파일들을 TV에서 재생
 
-![](portfolio/kt_usb.png)
+<img data-action="zoom" src='{{ "/assets/img/portfolio/kt_usb.png" | relative_url }}' alt='absolute'>
 
 ## KT ucloud album application
 
@@ -160,4 +159,4 @@ permalink: /about/
 - Language : javascript, jquery, oipf, svn, ant
 - Description : Cloud서버내에 있는 미디어 파일들과 휴대폰에 존재하는 미디어파일들을 TV어플 내에서 앨범형태로 제공하는 서비스
 
-![](portfolio/kt_ucloud.png)
+<img data-action="zoom" src='{{ "/assets/img/portfolio/kt_ucloud.png" | relative_url }}' alt='absolute'>
