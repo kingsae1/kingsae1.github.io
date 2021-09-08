@@ -25,6 +25,23 @@ permalink: /about/
 
 # 🔥 Project Portfolio
 
+## KT - InAbleCapture
+
+- Period : 2021.07 - 2021.08
+- Language : Go, Webpack, Svelte, Git
+- Description : 올레티비의 특정 모듈들을 스캐쥴에 맞게 캡쳐하고 업로드해주는 윈도우 어플리케이션
+
+<img data-action="zoom" src='{{ "/assets/img/portfolio/kt_inablecapture.png" | relative_url }}' alt='absolute'>
+
+## ToyProject - AutoMover
+
+- Period : 2021
+- Language : Go
+- Description : 사무용 PC에서 자동 절전모드를 막기위한 AutoMover
+
+<img data-action="zoom" src='{{ "/assets/img/portfolio/automover.png" | relative_url }}' alt='absolute'>
+
+
 ## KT - 차세대 NextUX
 
 - Period : 2020 – 2021
@@ -72,11 +89,12 @@ permalink: /about/
 
 <img data-action="zoom" src='{{ "/assets/img/portfolio/kt_homeportal.png" | relative_url }}' alt='absolute'>
 
-## Gulp check unused images plugin
+## ToyProject - Gulp check unused images plugin
 
 - Period : 2017.9
 - Language : Gulp, Nodejs
-- Description : In your project, you will add lots of images you don't know. This plugin will help you check unused image files in your code Support Type : jpg,gif,bmp,png,tif,raw,psd
+- Description : 프로젝트 내에서 사용하지 않는 이미지를 체크해주는 Plugin
+- Support Type : jpg,gif,bmp,png,tif,raw,psd
 - Repo Link : https://github.com/kingsae1/gulp-check-unused-image
 
 ## KT Voice 홈포탈 (POC용)
